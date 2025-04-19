@@ -1,4 +1,4 @@
-👋 BigT here! I'm on a mission to become a high-level full-stack developer <br />
+👋 **BigT** here! I'm on a mission to become a high-level full-stack developer <br />
 🚀 **Full-Stack Dev in the Making** – Crafting clean, scalable web apps
       from the ground up with a strong grip on HTML, CSS, Bootstrap/Tailwind
       CSS, and JavaScript.<br />
@@ -24,6 +24,7 @@
 
 > 🔧 Currently learning, building, breaking, and rebuilding — one commit
       at a time👨‍💻.<br />
+> 💡 Always open to new ideas and collaborations. Let's connect!<br />
 
 
 ## 🌐 Socials:
