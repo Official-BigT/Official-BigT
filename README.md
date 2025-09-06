@@ -1,22 +1,22 @@
 👋 **BigT** here! I'm on a mission to become a high-level full-stack developer <br />
 🚀 **Full-Stack Dev in the Making** – Crafting clean, scalable web apps
       from the ground up with a strong grip on HTML, CSS, Bootstrap/Tailwind
-      CSS, and JavaScript.<br />
-🧠 **On a Code-Focused Journey** – Currently mastering the MERN stack
-      (MongoDB, Express.js, React, Node.js) with future plans to explore
+      CSS, JavaScript, MERN.<br />
+🧠 **On a Code-Focused Journey** – Mastering the MERN stack
+      (MongoDB, Express.js, React, Node.js) alongside
       TypeScript and Next.js.<br />
 🛠️ **Builder’s Mentality** – Turning ideas into functional products
-      while polishing UI/UX with Tailwind CSS and Bootstrap for sleek,
+      while polishing UI/UX with Tailwind CSS, Bootstrap, Styling and Layout Components(shadcn UI, Material UI) for sleek,
       responsive design.<br />
 📚 **Cohort Learner & Self-Starter** – Balancing bootcamp learning with
-      self-driven projects and consistent skill leveling across REACT, Laravel,
-      and JavaScript.<br />
+      self-driven projects and consistent skill leveling across MERN, Laravel,
+      and Typescript.<br />
 📸 **Beyond Code** – Passion for photography, videography, and creative
       storytelling – reflected in portfolio visuals and project details.<br />
-🧩 **Always Sharpening the Mind** – From 2048 to Sudoku to clean code –
+🧩 **Always Sharpening the Mind** – From 2048 to Sudoku to Word Puzzles to clean code –
       focused on daily improvement, structure, and long-game mastery.<br />
-🔭 I’m currently working on ...**ODS CLOTHING BRAND**<br />
-🌱 I’m currently learning ...**JAVASCRIPT COMPLETELY**<br />
+🔭 I’m currently working on ...**ODS**<br />
+🌱 I’m currently learning ...**BACKEND OPERATIONS/ENGINEERING**<br />
 👯 I’m looking to collaborate with a skilful designer.<br />
 🤔 I’m also looking for an accountability partner.<br />
 💬 Ask me about ...**MY JOURNEY SO FAR**<br />
