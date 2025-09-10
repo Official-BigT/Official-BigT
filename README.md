@@ -6,7 +6,7 @@
       (MongoDB, Express.js, React, Node.js) alongside
       TypeScript and Next.js.<br />
 🛠️ **Builder’s Mentality** – Turning ideas into functional products
-      while polishing UI/UX with Tailwind CSS, Bootstrap, Styling and Layout Components(shadcn UI, Material UI) for sleek,
+      while polishing UI/UX with Tailwind CSS, Bootstrap, Styling and Layout Components (shadcn UI, Material UI) for sleek,
       responsive design.<br />
 📚 **Cohort Learner & Self-Starter** – Balancing bootcamp learning with
       self-driven projects and consistent skill leveling across MERN, Laravel,
