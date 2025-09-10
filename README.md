@@ -17,7 +17,7 @@
       focused on daily improvement, structure, and long-game mastery.<br />
 🔭 I’m currently working on ...**ODS**<br />
 🌱 I’m always learning ...**BACKEND OPERATIONS/ENGINEERING**<br />
-👯 I’m looking to collaborate with a skilful designer not just AI.<br />
+👯 I’m looking to collaborate with a skilful designer not just **AI**.<br />
 🤔 I’m also looking for an accountability partner.<br />
 💬 Ask me about ...**MY JOURNEY SO FAR**<br />
 ⚡ Fun fact: If you're a **weirdo**, we'll get along just fine.<br /> 
